@@ -33,3 +33,9 @@ nosetests.xml
 .mr.developer.cfg
 .project
 .pydevproject
+
+# ropevim
+.ropeproject
+
+# vim tmp files
+*.sw?
